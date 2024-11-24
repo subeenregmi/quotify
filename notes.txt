@@ -1,0 +1,12 @@
+going to make a small app that gives you quotes on a website
+
+Primary functions
+    - Serve simple static website
+    - Serve a random quote from an API
+    - Let user like a quote and it stores
+
+TODO: 
+    - Refresh button
+    - View likes
+    - Recommendation algorithm
+    - N likes per day

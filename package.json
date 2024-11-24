@@ -1,0 +1,21 @@
+{
+  "name": "quotify",
+  "version": "1.0.0",
+  "description": "Randomized quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@html-eslint/eslint-plugin": "^0.27.0",
+    "@html-eslint/parser": "^0.27.0",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
